@@ -10,8 +10,8 @@ Simple app which is deployed with Helm on kubernetes
 
 This command will create all the resources in namespace= **sre-techtask**  
 `bash Execution_script.sh`  
- 
-`kubectl get ingress -n sre-techtask` This will show you the HOSTS domain and the IP ADRESS.  
+ This will show you the HOSTS domain and the IP ADRESS.  
+`kubectl get ingress -n sre-techtask` 
   
  Get the minikube ip using `minikube ip` (let us assume it is 192.168.49.2)  
   
