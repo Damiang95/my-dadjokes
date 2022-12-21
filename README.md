@@ -1,5 +1,5 @@
 # my-dadjokes
-Simple app which is deployed with Helm on kubernetes  
+Simple app which is deployed with Helm on minikube cluster.  
 
 **Prerequisites**  
  minikube  
